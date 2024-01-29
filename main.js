@@ -94,4 +94,4 @@ let students = {
 // const
 // let
 
-// 2 ball   2 version
+// 3 ball   2 version
